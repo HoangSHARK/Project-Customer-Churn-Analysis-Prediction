@@ -1,0 +1,9 @@
+├── churn_analysis.ipynb        # Phân tích dữ liệu & xây dựng model
+├── cleaned_telco.csv          # Dataset đã xử lý
+├── churn_predictions.csv      # Kết quả dự đoán
+├── churn_dashboard.pbix       # Dashboard Power BI
+├── app.py                     # Ứng dụng Streamlit
+├── requirements.txt           # Thư viện cần thiết
+├── churn_model.pkl            # Model đã train
+├── model_columns.pkl          # Danh sách feature
+└── churn_report.pdf           # Báo cáo
